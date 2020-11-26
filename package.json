@@ -1,0 +1,21 @@
+{
+  "name": "next-on-docker",
+  "version": "0.0.0",
+  "description": "",
+  "main": "next.config.js",
+  "scripts": {
+    "build": "next build",
+    "dev": "next",
+    "export": "next export",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jaime Leonardo Suncin Cruz <leosuncin@gmail.com> (https://leosuncin.github.io)",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
